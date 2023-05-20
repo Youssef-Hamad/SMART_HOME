@@ -1,0 +1,13 @@
+/*
+ * TEMP_SENSOR_Config.h
+ *
+ *  Created on: May 20, 2023
+ *      Author: DWEEBSTARK
+ */
+
+#ifndef HAL_TEMP_SENSOR_TEMP_SENSOR_CONFIG_H_
+#define HAL_TEMP_SENSOR_TEMP_SENSOR_CONFIG_H_
+
+
+#define TEMPSENSOR_PIN 		DIO_U8_PORTA,DIO_U8_PIN3
+#endif /* HAL_TEMP_SENSOR_TEMP_SENSOR_CONFIG_H_ */

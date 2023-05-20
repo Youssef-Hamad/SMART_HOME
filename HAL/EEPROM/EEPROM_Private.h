@@ -1,0 +1,14 @@
+/*
+ * EEPROM_Private.h
+ *
+ *  Created on: Apr 24, 2023
+ *      Author: DWEEBSTARK
+ */
+
+#ifndef HAL_EEPROM_EEPROM_PRIVATE_H_
+#define HAL_EEPROM_EEPROM_PRIVATE_H_
+
+#define EEPROM_FIXED_ADDRESS			0b01010000
+#define EEPROM_8K_ADDRESS_MASK	 		0b0000000000000011
+
+#endif /* HAL_EEPROM_EEPROM_PRIVATE_H_ */
