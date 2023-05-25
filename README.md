@@ -1,2 +1,2 @@
 # Smart Home
- Smart Home wiht login system 
+Smart home with log-in system that enables users to control Air conditioning, Lighting systems, etc.
